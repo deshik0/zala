@@ -19,7 +19,7 @@
         url: 'http://llpp.xyz/v/kinoboom/'
       },{
         title: 'Ermak',
-        url: 'https://dl.dropboxusercontent.com/s/avm7zllh8rf1b7y/zala.html'
+        url: 'https://github.com/deshik0/zala/blob/main/zala.html'
       }, {
         title: 'Детские',
         url: 'http://llpp.xyz/v/det/'
